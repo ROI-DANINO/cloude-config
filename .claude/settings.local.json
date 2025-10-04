@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/roking/**)",
+      "Read(//home/roking/.config/nvim/**)",
+      "Read(//home/roking/.tmux/plugins/**)",
+      "Bash(test:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

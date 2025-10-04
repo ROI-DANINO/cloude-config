@@ -1,0 +1,4 @@
+{
+  "name": "ping-pong",
+  "sections": ["Phase Status", "Actions Executed", "Discovered State", "Files Changed", "Next Logical Step", "Questions"]
+}
